@@ -1,5 +1,5 @@
 source_locale = "en"
-target_locales = ["de", "fr"]
+target_locales = ["de", "es", "fr"]
 
 [[files]]
 format = "json"
