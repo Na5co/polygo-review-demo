@@ -7,7 +7,7 @@
   "notes.deleted": "{{name}} supprimé",
   "search.placeholder": "Rechercher des notes…",
   "settings.title": "Paramètres",
-  "settings.language": "Langue",
+  "settings.language": "Langue de l'{{app}}",
   "error.offline": "Vous êtes hors ligne. Les modifications sont enregistrées localement.",
-  "footer.help": "Besoin d'aide ? Écrivez à support@example.com"
+  "footer.help": "Besoin d'aide ? Écrivez à aide@example.com"
 }
