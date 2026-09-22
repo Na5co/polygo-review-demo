@@ -1,0 +1,15 @@
+source_locale = "en"
+target_locales = ["de", "fr"]
+
+[[files]]
+format = "json"
+path = "locales/en.json"
+locale_path = "locales/{locale}.json"
+
+# The product name is the product name in every language.
+[keys]
+ignore = { "app.title" = ["identical"] }
+
+[provider]
+kind = "ollama"
+model = "qwen2.5:7b"

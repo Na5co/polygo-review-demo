@@ -1,0 +1,13 @@
+{
+  "app.title": "Cloud Notes",
+  "greeting": "Welcome back, {{user}}!",
+  "notes.count": "You have {{count}} notes",
+  "notes.shared": "{{user}} shared a note with you",
+  "notes.delete": "Delete note?",
+  "notes.deleted": "Deleted {{name}}",
+  "search.placeholder": "Search notes…",
+  "settings.title": "Settings",
+  "settings.language": "Language",
+  "error.offline": "You are offline. Changes are saved locally.",
+  "footer.help": "Need help? Write to support@example.com"
+}
