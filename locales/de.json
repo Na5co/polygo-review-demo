@@ -4,7 +4,7 @@
   "notes.count": "Du hast {{count}} Notizen",
   "notes.shared": "{{user}} hat eine Notiz mit dir geteilt",
   "notes.delete": "Notiz löschen",
-  "notes.deleted": "{{name_de}} gelöscht",
+  "notes.deleted": "{{name}} gelöscht",
   "search.placeholder": "Notizen durchsuchen…",
   "settings.title": "Einstellungen",
   "settings.language": "Sprache",
