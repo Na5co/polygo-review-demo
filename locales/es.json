@@ -4,7 +4,7 @@
   "notes.count": "Tienes {{count}} notas",
   "notes.shared": "{{user}} compartió una nota contigo",
   "notes.delete": "¿Eliminar la nota?",
-  "notes.deleted": "{{nombre}} eliminado",
+  "notes.deleted": "{{name}} eliminado",
   "search.placeholder": "Buscar notas…",
   "settings.title": "Ajustes",
   "settings.language": "Idioma",
