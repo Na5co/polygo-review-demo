@@ -1,0 +1,13 @@
+{
+  "app.title": "Cloud Notes",
+  "greeting": "Bentornato, {{utente}}!",
+  "notes.count": "Hai {{count}} note",
+  "notes.shared": "{{user}} ha condiviso una nota con te",
+  "notes.delete": "Eliminare la nota?",
+  "notes.deleted": "{{name}} eliminata",
+  "search.placeholder": "Cerca note…",
+  "settings.title": "Impostazioni",
+  "settings.language": "Lingua",
+  "error.offline": "Sei offline. Le modifiche vengono salvate localmente.",
+  "footer.help": "Serve aiuto? Scrivi a support@example.com"
+}
